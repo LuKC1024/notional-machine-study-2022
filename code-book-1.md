@@ -1,0 +1,5 @@
+- reading code: the student is reading the code. Specifically, the student uses words such as `first`, `rest`, and `if`. The case splitting and recursion are expressed in the same structure as in the code.
+- purposes: the student is explaining the purpose or meaning of a piece of code. In comparison to reading code, the student describes the computation in words and structures other than those that are in the code. For example, the student may say “remove all items that are equal to val and are at the beginning of the list”.
+- properties: the student states properties about a function definition or an expression. What sets properties away from purposes is that the former provides partial descriptions. For example, “the output list must not contain equal adjacent items” must be in the former set rather than in the latter. Types are also considered properties.
+- proofs: utterances that relate code to properties or to purposes.
+- examples: examples of function call, may or may not involve intermediate states.
