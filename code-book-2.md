@@ -1,10 +1,8 @@
-- **verbalize the syntax**: the student describes a piece of program with many PL-words
-  (e.g. `first`, `rest`, `empty`, the user-defined function names, and even quotes of the program).
-  Furthermore, the description mentions the PL-words in the same order as they occur in the program.
+- **verbalize the syntax**: the student describes a piece of program by reading off the syntactic constructs
+  (e.g. `first`, `rest`, `empty`, the user-defined function names, and even quotes of the program),
+  largely in the same order as they occur in the program.
   (We need this code because students will likely organize more interesting explanation around applications of this code.)
-- **purposes**: the student describes what a function does without getting into its case splitting
-  and without saying recursion explicitly.
-  That is, the student paraphrases the recursion.
+- **purposes**: the student describes what a function does at the level of inputs and outputs. 
   For example, *"loop until"* and *"remove all"* are considered a purpose.
   *"do the same for the rest"* is NOT considered a purpose.
   (Existance of applications of this code suggests that the student has came up with a purpose statement of the function).
